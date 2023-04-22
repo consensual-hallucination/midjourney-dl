@@ -19,3 +19,8 @@ Menu:
 
    
    ![image](https://user-images.githubusercontent.com/83740044/233791037-b9b49cbf-2505-465d-b324-eee518777445.png)
+
+
+### TODO:
+
+- [ ] Download all image meta-data into CSV file (image id, full prompt, date created)  
