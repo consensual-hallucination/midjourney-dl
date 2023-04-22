@@ -7,6 +7,8 @@ Put yor token in token.txt.
 In your browser's dev tools,
 Find the `__Secure-next-auth.session-token` cookie.
 
+Script may have bugs. Use at your own risk.
+
 [See on YouTube](https://youtu.be/_mVR2Zb6TFI)
 
 Menu:  
