@@ -1,6 +1,5 @@
 # midjourney-dl
 
-
 Downloads upscaled images, and related prompts from Midjourney archives.  
 
 Put yor token in token.txt. 
@@ -16,5 +15,7 @@ Menu:
    1. Download images for a specific date
    2. Download all images
    
+   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hallucination)
+
    
    ![image](https://user-images.githubusercontent.com/83740044/233791037-b9b49cbf-2505-465d-b324-eee518777445.png)
