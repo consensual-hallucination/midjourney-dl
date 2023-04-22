@@ -1,7 +1,7 @@
 # midjourney-dl
 
 
-Downloads images and prompts from Midjourney archives.  
+Downloads upscaled images, and related prompts from Midjourney archives.  
 
 Put yor token in token.txt. 
 In your browser's dev tools,
@@ -13,3 +13,6 @@ Menu:
  Who's archive do you want to download? ('Enter' for your own, or 'userID'): 
    1. Download images for a specific date
    2. Download all images
+   
+   
+   ![image](https://user-images.githubusercontent.com/83740044/233791037-b9b49cbf-2505-465d-b324-eee518777445.png)
