@@ -6,6 +6,10 @@ Put yor token in token.txt.
 In your browser's dev tools,
 Find the `__Secure-next-auth.session-token` cookie.
 
+Please do not abuse - delay is set between each download in order to prevent hammering Midjourney's servers.  
+Please do not lower those values.  
+Be nice 
+
 Script may have bugs. Use at your own risk.
 
 [See on YouTube](https://youtu.be/_mVR2Zb6TFI)
@@ -24,3 +28,4 @@ Menu:
 ### TODO:
 
 - [ ] Download all image meta-data into CSV file (image id, full prompt, date created)  
+- [ ] Clean up  
