@@ -29,3 +29,6 @@ Menu:
 
 - [ ] Download all image meta-data into CSV file (image id, full prompt, date created)  
 - [ ] Clean up  
+
+### Contact:
+consensual-hallucination@protonmail.com
