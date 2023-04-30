@@ -2,9 +2,13 @@
 
 Downloads upscaled images, and related prompts from Midjourney archives.  
 
-Put yor token in token.txt. 
+Images are named with text from the prompt (up to 200 characters) followed by image ID.  
+Full prompt command is saved in a text file with the same name.   
+
+  
+### For the script to work you need to put your token in a text file in the same directory as the script file.  
 In your browser's dev tools,
-Find the `__Secure-next-auth.session-token` cookie.
+Find the `__Secure-next-auth.session-token` cookie and save the value inside your token.txt file.
 
 Please do not abuse - delay is set between each download in order to prevent hammering Midjourney's servers.  
 Please do not lower those values.  
