@@ -24,7 +24,14 @@ Menu:
    
    ![image](https://user-images.githubusercontent.com/83740044/233791037-b9b49cbf-2505-465d-b324-eee518777445.png)
 
+  
+Images are downloaded into folders by: year-month-day
+![image](https://user-images.githubusercontent.com/83740044/235354901-338360d5-ebf5-47b4-bc12-2741ac9bb450.png)
 
+
+  
+  
+  
 ### TODO:
 
 - [ ] Download all image meta-data into CSV file (image id, full prompt, date created)  
